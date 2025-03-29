@@ -2,3 +2,5 @@ bitbake/
 openembedded-core/
 build/
 meta-arm/
+.bash_history
+.wget-hsts
